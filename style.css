@@ -1,6 +1,6 @@
 body{
 font-family: Arial, sans-serif;
-background:#f2f2f2;
+background:#eef4ff;
 display:flex;
 justify-content:center;
 align-items:center;
@@ -8,7 +8,7 @@ height:100vh;
 }
 
 .container{
-background:white;
+background:#ffffff;
 padding:30px;
 border-radius:10px;
 text-align:center;
@@ -20,12 +20,13 @@ padding:10px;
 width:220px;
 font-size:16px;
 text-align:center;
+border:1px solid #6c8cff;
 }
 
 button{
 padding:10px 20px;
 font-size:16px;
-background:#4CAF50;
+background:#3b6ef5;
 color:white;
 border:none;
 cursor:pointer;
@@ -33,5 +34,5 @@ border-radius:5px;
 }
 
 button:hover{
-background:#45a049;
+background:#2f57c7;
 }
